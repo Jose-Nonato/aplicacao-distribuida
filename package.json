@@ -1,0 +1,25 @@
+{
+  "name": "aplicacao-distribuida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jose-Nonato/aplicacao-distribuida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jose-Nonato/aplicacao-distribuida/issues"
+  },
+  "homepage": "https://github.com/Jose-Nonato/aplicacao-distribuida#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
